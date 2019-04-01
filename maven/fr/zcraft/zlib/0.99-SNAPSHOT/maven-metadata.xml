@@ -4,21 +4,14 @@
   <artifactId>zlib</artifactId>
   <version>0.99-SNAPSHOT</version>
   <versioning>
-    <snapshot>
-      <timestamp>20190401.000000</timestamp>
-      <buildNumber>1</buildNumber>
-    </snapshot>
-    <lastUpdated>20190401000000</lastUpdated>
     <snapshotVersions>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>0.99-20190401.000000</value>
-        <updated>20190401000000</updated>
+        <value>1</value>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>0.99-20190401.000000</value>
-        <updated>20190401000000</updated>
+        <value>1</value>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
