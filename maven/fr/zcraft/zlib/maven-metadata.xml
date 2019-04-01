@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>fr.zcraft</groupId>
+  <artifactId>zlib</artifactId>
+  <version>1.01-1.13New-SNAPSHOT</version>
+  <versioning>
+    <latest>1.01-1.13New-SNAPSHOT</latest>
+    <versions>
+      <version>0.99-SNAPSHOT</version>
+      <version>1.01-1.13New-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20190401000000</lastUpdated>
+  </versioning>
+</metadata>
+
