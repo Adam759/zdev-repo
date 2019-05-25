@@ -2,12 +2,12 @@
 <metadata modelVersion="1.1.0">
   <groupId>fr.zcraft</groupId>
   <artifactId>zlib</artifactId>
-  <version>1.01-1.13New-SNAPSHOT</version>
+  <version>0.999</version>
   <versioning>
-    <latest>1.01-1.13New-SNAPSHOT</latest>
+    <latest>0.999</latest>
     <versions>
-      <version>0.99-SNAPSHOT</version>
-      <version>1.01-1.13New-SNAPSHOT</version>
+      <version>0.999-SNAPSHOT</version>
+      <version>0.999</version>
     </versions>
   </versioning>
 </metadata>
