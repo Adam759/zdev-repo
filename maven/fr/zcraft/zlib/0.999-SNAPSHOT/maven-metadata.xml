@@ -2,7 +2,7 @@
 <metadata modelVersion="1.1.0">
   <groupId>fr.zcraft</groupId>
   <artifactId>zlib</artifactId>
-  <version>1.01-1.13New-SNAPSHOT</version>
+  <version>0.999</version>
   <versioning>
     <snapshot>
       <timestamp>20190331.101555</timestamp>
@@ -12,12 +12,12 @@
     <snapshotVersions>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>1.01-1.13New-20190331.101555-1</value>
+        <value>0.999</value>
         <updated>20190331101555</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>1.01-1.13New-20190331.101555-1</value>
+        <value>0.999</value>
         <updated>20190331101555</updated>
       </snapshotVersion>
     </snapshotVersions>
